@@ -9,8 +9,7 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 * Quantum computing and quantum machine learning.
 * Artificial intelligence
 
-/play crickets
 
 I am always looking for collabioration 👯 in various different projects including but not limitting to Machine Learning/Data Science and Computational Condensed Matter Physics.
 
-Please feel free to contact me at khanalg44@gmail.com for any comments/suggestions.
+Please feel free to contact me at :email: khanalg44@gmail.com for any comments/suggestions.
