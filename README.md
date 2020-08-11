@@ -9,7 +9,8 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 * Quantum computing and quantum machine learning.
 * Artificial intelligence
 
-
 I am always looking for collabioration 👯 in various different projects including but not limitting to Machine Learning/Data Science and Computational Condensed Matter Physics.
+
+You can also check my [Git Page](https://khanalinc.github.io/) as well as [my personal website](https://www.physics.rutgers.edu/~khanal/) for more information on my research and many more.
 
 Please feel free to contact me at :email: khanalg44@gmail.com for any comments/suggestions.
