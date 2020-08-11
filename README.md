@@ -6,8 +6,8 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 * Introduction to python programming language for physics research as well as data science.
 * Linux basics and scripting language.
 * Machine learning and deep learning.
+* Natural language processing: ML on text data.
 * Quantum computing and quantum machine learning.
-* Artificial intelligence
 
 I am always looking for collabioration 👯 in various different projects including but not limitting to Machine Learning/Data Science and Computational Condensed Matter Physics.
 
