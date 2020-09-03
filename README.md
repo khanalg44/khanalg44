@@ -9,7 +9,7 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 * **Natural language processing:** ML on text data.
 * **Quantum computing algorithms** and **quantum machine learning**.
 
-I am always looking for collabioration 👯 in various different projects including but not limitting to Machine Learning/Data Science and Computational Condensed Matter Physics.
+I am always looking to meet new people and possibly collaborate 👯 in various different projects including but not limitting to Machine Learning/Data Science and computational condensed matter physics.
 
 You can also check my [git webpage](https://khanalinc.github.io/) as well as [my personal webpage](https://www.physics.rutgers.edu/~khanal/) for more information on my work and many more.
 
@@ -17,4 +17,4 @@ You can also check my [git webpage](https://khanalinc.github.io/) as well as [my
 ![My Github Programming Status](https://github-readme-stats.vercel.app/api/top-langs/?username=khanalg44&show_icons=true&hide_border=true)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=khanalg44.khanalg44)
 
-Please feel free to contact me at :email: khanalg44@gmail.com for any comments/suggestions.
+Please feel free to contact me at :email: khanalg44@gmail.com and [Linkedin Page](www.linkedin.com/in/ghanashyam-khanal) for any comments/suggestions.
