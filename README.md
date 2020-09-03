@@ -17,4 +17,4 @@ You can also check my [git webpage](https://khanalinc.github.io/) as well as [my
 ![My Github Programming Status](https://github-readme-stats.vercel.app/api/top-langs/?username=khanalg44&show_icons=true&hide_border=true)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=khanalg44.khanalg44)
 
-Please feel free to contact me at :email: khanalg44@gmail.com and [Linkedin Page](www.linkedin.com/in/ghanashyam-khanal) for any comments/suggestions.
+Please feel free to contact me at :email: khanalg44@gmail.com and [Linkedin Page](https://www.linkedin.com/in/ghanashyam-khanal/) for any comments/suggestions.
