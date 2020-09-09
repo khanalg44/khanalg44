@@ -2,9 +2,9 @@
 
 Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least something here. You can find repo in the following different categories.
 
-* Research on **computational condensed matter physics**.
-* 🐍 Introduction to **python programming language for physics research** as well as data science.
-* Linux basics and scripting language.
+*1. Research on **computational condensed matter physics**.
+*2. 🐍 Introduction to **python programming language for physics research** as well as data science.
+* **Linux and bash scripting language**. 
 * **Machine learning and deep learning**.
 * **Natural language processing:** ML on text data.
 * **Quantum computing algorithms** and **quantum machine learning**.
