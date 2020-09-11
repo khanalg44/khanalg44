@@ -7,7 +7,7 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 * **Linux and bash scripting language**. 
 * **Machine learning and deep learning**.
 * **Natural language processing:** ML on text data.
-* **Quantum computing algorithms** and **quantum machine learning**.
+* **Quantum computing algorithms** and **quantum machine learning**. Check [QuantumYatra](https://github.com/quantumyatra/)
 
 I am always looking to meet new people and possibly collaborate 👯 in various different projects including but not limitting to Machine Learning/Data Science and computational condensed matter physics.
 
