@@ -2,7 +2,7 @@
 
 Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least something here. You can find repo in the following different categories.
 
-* Research on **computational condensed matter physics**. Check [my website](https://www.physics.rutgers.edu/~khanal/)
+* Research on **computational condensed matter physics**. Check [My Website](https://www.physics.rutgers.edu/~khanal/)
 * 🐍 Introduction to **python programming language for physics research** as well as data science.
 * **Linux and bash scripting language**. 
 * **Machine learning and deep learning**.
