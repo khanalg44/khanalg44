@@ -6,7 +6,7 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 * Introduction to **python programming language for physics research** as well as data science.
 * **Linux and bash scripting language**. 
 * **Machine learning and deep learning**.
-* **Natural language processing:** Check [NLPYatra](https://github.com/khanalg44/nlp_projects/).
+* **Natural language processing: https://github.com/khanalg44/nlp_projects/
 * **Quantum computing algorithms** and **quantum machine learning**. Check [QuantumYatra](https://github.com/quantumyatra/).
 
 I am always looking to meet new people and possibly collaborate 👯 in various different projects including but not limitting to Machine Learning/Data Science and computational condensed matter physics.
