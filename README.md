@@ -19,4 +19,4 @@ You can also check my [git webpage](https://khanalinc.github.io/) as well as [my
 
 ## Questions/Comments/Suggestions for me?
 
-:email: me @ **khanalg44@gmail.com** and check my [**https://www.linkedin.com/in/ghanashyam-khanal**](https://www.linkedin.com/in/ghanashyam-khanal/).
+:email: me @ **khanalg44@gmail.com** and check my Linkedin on [**https://www.linkedin.com/in/ghanashyam-khanal**](https://www.linkedin.com/in/ghanashyam-khanal/).
