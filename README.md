@@ -4,11 +4,10 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 
 * Research on **computational condensed matter physics**. Check my webstite https://www.physics.rutgers.edu/~khanal/
 * Introduction to **python programming language for physics research** as well as data science.
-* **Linux and bash scripting language*.*. 
+* Introduction to **Linux and bash scripting language**
 * **Machine learning and deep learning.** from implementation from scratch to implementing using various packages.
 * **Natural language processing:** https://github.com/khanalg44/nlp_projects/
 * **Quantum computing algorithms** and **quantum machine learning**. Check [QuantumYatra](https://github.com/quantumyatra/).
-
 
 ## My Top Datascience Project
 * Magnet competetion hosted by Drivendata.org. Time Series analysis using LSTM model. Find the codes here: https://github.com/khanalg44/MagNet
@@ -17,7 +16,7 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 
 
 ## My Passion Project: **cric-data.herokuapp.com**
-* If you are into cricket then please check my website https://cric-data.herokuapp.com/ for players' profile, top statistics, analysis in various formats of the game
+If you are into cricket then please check my website https://cric-data.herokuapp.com/ for players' profile, top statistics, analysis in various formats of the game
 
 ## Contact me:
 
