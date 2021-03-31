@@ -21,10 +21,10 @@ If you are into cricket then please check my website https://cric-data.herokuapp
 
 ## Contact me:
 
-* My GitHub account: https://github.com/khanalg44/
-* My LinkedIn account: https://www.linkedin.com/in/ghanashyam-khanal/
-* My email: khanalg44@gmail.com
-* My Rutgers website: https://www.physics.rutgers.edu/~khanal/
+* GitHub: https://github.com/khanalg44/
+* LinkedIn: https://www.linkedin.com/in/ghanashyam-khanal/
+* email: khanalg44@gmail.com
+* Rutgers website: https://www.physics.rutgers.edu/~khanal/
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=khanalg44&show_icons=true&hide_border=true)
 ![My Github Programming Status](https://github-readme-stats.vercel.app/api/top-langs/?username=khanalg44&show_icons=true&hide_border=true)
