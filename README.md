@@ -54,7 +54,7 @@ If you are into cricket then please check my website https://cric-data.herokuapp
 
 * GitHub: https://github.com/khanalg44/
 * LinkedIn: https://www.linkedin.com/in/ghanashyam-khanal/
-* email: khanalg44@gmail.com
+* Email: khanalg44@gmail.com
 * Rutgers website: https://www.physics.rutgers.edu/~khanal/
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=khanalg44&show_icons=true&hide_border=true)
