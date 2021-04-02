@@ -11,7 +11,8 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 
 ## My Top Datascience Project
 
-* Magnet competetion hosted by Drivendata.org. <br> Model Geomagnetic field in order to predict Disturbance Storm-Time (DST) index using real time solar wind data <br> Understood how ARIMA model doesn't work <br> Performed time-series analysis using LSTM model in TensorFlow-2. <br> Ranked within the top 8% among more than 600 participants. <br> Find the Code here: https://github.com/khanalg44/MagNet
+* Magnet competetion hosted by Drivendata.org. 
+  *  Model Geomagnetic field in order to predict Disturbance Storm-Time (DST) index using real time solar wind data <br> Understood how ARIMA model doesn't work <br> Performed time-series analysis using LSTM model in TensorFlow-2. <br> Ranked within the top 8% among more than 600 participants. <br> Find the Code here: https://github.com/khanalg44/MagNet
 * Time Series analysis using LSTM model. <br> Find the codes here: https://github.com/khanalg44/MagNet </br>
 * Stock-Twits multiclass sentiment classification. NLP implimentation using Logistic Regression, Boosted algorithms, Feed Forward Neural Network as well as LSTM model. Find the code here: https://github.com/khanalg44/nlp_projects/tree/master/13_stock_twits_sentiment
 * Quarantine (Due to COVID-19) effects on real world temperature and pollution data using SARIMA model. Find the code here: https://github.com/khanalg44/moa_prediction
