@@ -17,11 +17,14 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
   * Next word prediction using LSTM on TensorFLow.
   * Stock-Twits multiclass sentiment classification.
 
-
 * Quantum computing algorithms and quantum machine learning
   * Intruction to basic quantum computing algorithms from basic quantum mechanics to python implementation using **qiskit** develped by IBM.
   * Introduction to some Quantum Machine Learning algorithms.
   * Check here for code: https://github.com/quantumyatra/
+
+* Writing web application code and deploying Machine learning models
+  * Develope beginer webapp using Flask and Streamlit
+  * Deploy your model on Herokuapp.
 
 # My Top Datascience Project
 
