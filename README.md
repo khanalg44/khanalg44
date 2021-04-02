@@ -10,7 +10,7 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 * **Quantum computing algorithms** and **quantum machine learning**. Check [QuantumYatra](https://github.com/quantumyatra/).
 
 ## My Top Datascience Project
-* Magnet competetion hosted by Drivendata.org. Time Series analysis using LSTM model. Find the codes here: https://github.com/khanalg44/MagNet
+* Magnet competetion hosted by Drivendata.org. Time Series analysis using LSTM model. <br> Find the codes here: https://github.com/khanalg44/MagNet </br>
 * Stock-Twits multiclass sentiment classification. NLP implimentation using Logistic Regression, Boosted algorithms, Feed Forward Neural Network as well as LSTM model. Find the code here: https://github.com/khanalg44/nlp_projects/tree/master/13_stock_twits_sentiment
 * Quarantine (Due to COVID-19) effects on real world temperature and pollution data using SARIMA model. Find the code here: https://github.com/khanalg44/moa_prediction
 * A systematic comparision of classification performance of various ML methods on BBC News text data. Logistic regression, XGBoost and Neural Network. Find the code here: https://github.com/khanalg44/nlp_projects/tree/master/14_bbc_news_classification
