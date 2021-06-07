@@ -23,9 +23,9 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
   * Develope beginer webapp using Flask and Streamlit
   * Deploy your model on Herokuapp.
 
-# My Top Datascience Project
+# My Top Datascience Projects
 
-* **Gristock**: Predicting Viral Posts on Reddit
+### **Gristock**: Predicting Viral Posts on Reddit
  * Finalist of the Erdos Data Science Bootcamp 2021.
  * Scraped >2M Reddit posts from Reddit and >72K unique tweets mentioning GameStop.
  * Wrangled the features to extract intrinsic properties of the posts along with external information.
@@ -33,13 +33,13 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
  * Deployed the model via Heroku with the option to choose between aggressive (high recall) and defensive (high precision) strategies.
  * Website: (https://gristock.herokuapp.com/)
 
-* **ToxCom**: Identify Toxic Online Comments
+### **ToxCom**: Identify Toxic Online Comments
  * Project work for NLP-Pilot Bootcamp organized by Erdos Institute.
  * Processed the highly imbalanced data set containing Wikipedia comments posted online.
  * Used Logistic Regression, Random Forrest, XGBoost, and various Neural Network architecture for the multilabel multiclass classification problem.
  * Developed a web app and deployed it online (https://toxcom.herokuapp.com/) for any user to find whether an online comment is toxic or not as well as to distinguish what kind of toxic label the comment has.
 
-* **MagNet**: Forecast Geomagnetic Storms, Drivendata.org [GitHub: github.com/khanalg44/MagNet]
+### **MagNet**: Forecast Geomagnetic Storms, Drivendata.org [GitHub: github.com/khanalg44/MagNet]
 * Cleaned the real-time solar wind data and imputed it using forward fill and interpolation methods to predict DST index.
 * Performed time-series analysis using ARIMA model as well as implemented LSTM model in TensorFlow-2 framework.
 * Ranked within the top 8% (group of four) among more than 600 participants in the competition for the LSTM implementation
