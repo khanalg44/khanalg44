@@ -39,10 +39,11 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
  * Used Logistic Regression, Random Forrest, XGBoost, and various Neural Network architecture for the multilabel multiclass classification problem.
  * Developed a web app and deployed it online (https://toxcom.herokuapp.com/) for any user to find whether an online comment is toxic or not as well as to distinguish what kind of toxic label the comment has.
 
-### **MagNet**: Forecast Geomagnetic Storms, Drivendata.org [GitHub: github.com/khanalg44/MagNet]
+### **MagNet**: Forecast Geomagnetic Storms, Drivendata.org 
 * Cleaned the real-time solar wind data and imputed it using forward fill and interpolation methods to predict DST index.
 * Performed time-series analysis using ARIMA model as well as implemented LSTM model in TensorFlow-2 framework.
 * Ranked within the top 8% (group of four) among more than 600 participants in the competition for the LSTM implementation
+* Find Code here [github.com/khanalg44/MagNet](github.com/khanalg44/MagNet).
 
 
 # My Passion Project: **cric-data.herokuapp.com**
