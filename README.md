@@ -26,7 +26,7 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 # My Top Datascience Projects
 
 ### **Gristock**: Predicting Viral Posts on Reddit
- * Finalist of the Erdos Data Science Bootcamp 2021.
+ * **Finalist of the Erdos Data Science Bootcamp 2021.**
  * Scraped >2M Reddit posts from Reddit and >72K unique tweets mentioning GameStop.
  * Wrangled the features to extract intrinsic properties of the posts along with external information.
  * Built predictive models using word vectorization and probability calibration on an imbalanced (5:95) dataset.
