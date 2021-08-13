@@ -2,7 +2,7 @@
 
 Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least something here. You can find my codes in various different categories including the following:
 
-* Research on **computational condensed matter physics**. Check my webstite [khanalg44@github.io](khanalg44@github.io)
+* Research on **computational condensed matter physics**. Check my webstite [khanalg44@github.io](https://khanalg44.github.io/)
   * Introduction and real applications of Density Functioal Theory (DFT) and embedded Dynamical Mean-Field Theory (eDMFT) calculations on solids.
   * Python TightBinding models for various Topological phases of real materials.
   
