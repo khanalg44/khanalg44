@@ -2,26 +2,28 @@
 
 Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least something here. You can find my codes in various different categories including the following:
 
-* Research on **computational condensed matter physics**. Check my webstite [khanalg44@github.io](https://khanalg44.github.io/)
+* **Research**
+  * Research in computational condensed matter physics. Check my webstite [khanalg44@github.io](https://khanalg44.github.io/)
   * Introduction and real applications of Density Functioal Theory (DFT) and embedded Dynamical Mean-Field Theory (eDMFT) calculations on solids.
   * Python TightBinding models for various Topological phases of real materials.
-  
-* Introduction to **python programming language for physics research** as well as data science.
-* Introduction to **Linux and bash scripting language**
-  * Everything from **grep, egrep, sed, awk** to **vi editor**
-* Machine learning and deep learning. 
-  * Implementation of various ML algorithms from scratch (only using numpy)
-  * Real world application of various ML methods on different data sets.
-* Natural language processing:
+ 
+* **Programming**
+  * **python** for physics research as well as data science.
+  * **Linux and bash scripting language**
+  * **grep, egrep, sed, awk** and **vi editor**
 
-* Quantum computing algorithms and quantum machine learning
-  * Intruction to basic quantum computing algorithms from basic quantum mechanics to python implementation using **qiskit** developed by IBM.
-  * Introduction to some Quantum Machine Learning algorithms.
+* **Machine Learning and Deep Learning**
+  * Implementation from scratch (only using numpy)
+  * Real world application of various ML methods.
+  * **Natural language processing**
+  * **Computer Vision**
+  * **Productionization**: Deploying your model as a web app using Falsk and Streamlit.
+
+* **Quantum Computing** and **Quantum Machine Learning**
+  * Basic quantum computing algorithms and it's implementation using **qiskit**.
+  * Introduction to some quantum machine learning algorithms.
   * Check here for code: https://github.com/quantumyatra/
 
-* Writing web application code and deploying Machine learning models
-  * Develope beginer webapp using Flask and Streamlit
-  * Deploy your model on Herokuapp.
 
 # My Top Datascience Projects
 
