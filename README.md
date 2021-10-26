@@ -4,7 +4,7 @@ Hi there 👋 ... Welcome to my personal git repo. I hope you'll learn at least 
 
 * **Research**
   * Research in computational condensed matter physics. Check my webstite [khanalg44@github.io](https://khanalg44.github.io/)
-  * Introduction and real applications of Density Functioal Theory (DFT) and embedded Dynamical Mean-Field Theory (eDMFT) calculations on solids.
+  * Introduction and real applications of Density Functioal Theory (DFT) and embedded Dynamical Mean-Field Theory (eDMFT) calculations on quantum materials.
   * Python TightBinding models for various Topological phases of real materials.
  
 * **Programming**
